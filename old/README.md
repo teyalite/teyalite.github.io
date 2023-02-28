@@ -1,2 +1,0 @@
-# teyalite.github.io
-Portfolio
