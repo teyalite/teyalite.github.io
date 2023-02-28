@@ -7,7 +7,7 @@
         "build": "next build",
         "start": "next start",
         "lint": "next lint",
-        "export": "next export  -o build/"
+        "export": "next export  -o docs/"
     },
     "dependencies": {
         "@types/node": "18.14.2",
