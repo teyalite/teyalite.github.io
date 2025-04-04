@@ -13,7 +13,7 @@ export default function Dado() {
       strings: [
         "You are an absolute joy to be around.",
         "You have a heart of gold.",
-        "You have the most beautiful eyes.",
+        "You're gonna earn millions one day.",
         "You have a unique and amazing personality.",
       ],
       typeSpeed: 50,
